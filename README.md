@@ -1,4 +1,4 @@
-# U9ImBase
+# umifImBase
 
 智能工厂移动应用-Base库，与[iUAP mobile](http://mobile.yyuap.com/)`summer框架`配合使用
 
