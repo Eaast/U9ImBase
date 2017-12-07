@@ -7,7 +7,7 @@
 手动安装或者使用`bower`安装
 
 ```bash
-$ bower install https://github.com/U9XXL/U9ImBase.git
+$ bower install https://github.com/Eaast/umifImBase.git
 ```
 
 ## 文档
